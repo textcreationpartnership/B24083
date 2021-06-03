@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Helter skelter, or, The Devil upon two sticks in a comical dialogue between high church and low church, relating to the times / by the author of, All men mad.</title>
+            <author>Ward, Edward, 1667-1731.</author>
+         </titleStmt>
+         <extent>Approx. 22KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24083</idno><idno type="EEBO-CITATION">18320139</idno>
+  <idno type="VID">206503</idno>
+  <idno type="EEBO-PROQUEST">2248543155</idno>
+  
+            <idno type="STC">Wing H1408</idno>
+            <idno type="OCLC">18320139</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206503)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1636:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Helter skelter, or, The Devil upon two sticks in a comical dialogue between high church and low church, relating to the times / by the author of, All men mad.</title>
+                  <author>Ward, Edward, 1667-1731.</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Attributed to Ward by NUC pre-1956 imprints.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:206503:1"/>
+            <head>
+               <hi>Helter Skelter, OR THE Devil upon two Sticks.</hi> In a Comical Dialogue between HIGH CHURCH and LOW CHURCH, Relating to the Times.</head>
+            <byline>By the Author of▪ All Men Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </byline>
+            <sp>
+               <speaker>High Church Man.</speaker>
+               <l>HERE Drawer, bring us t'other Quart,</l>
+               <l>I love the Church with all my Heart,</l>
+               <l>'Tis the maintains the Power Royal,</l>
+               <l>And teaches Subjects to be Loyal;</l>
+               <l>Altho some ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting Drones and Asses,</l>
+               <l>Revile her Common-Pray'rs as Masses,</l>
+               <l>And thro' Fools Consciences call'd Squeami<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Condemn her spotless Faith as <hi>Romish.</hi>
+               </l>
+               <l>I say, such Scandals are but Fictions,</l>
+               <l>Malicious whiggish Contradictions:</l>
+               <l>And I'll be bound my self, by <hi>Jove,</hi>
+               </l>
+               <l>Not only to assert, but prove,</l>
+               <l>She savours of no Popish leaven,</l>
+               <l>But i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the surest Guide to Heaven▪</l>
+               <l>Come Drawer fill a Glass to th'bri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪</l>
+               <l>Let the Low sin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and High-Church swim,</l>
+               <l>For we that are the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ns o'th' High,</l>
+               <l>Shall surely once surmount the Sky,</l>
+               <l>Whilst the dark Zealots of the Low,</l>
+               <l>S<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> down wards to the bottom go,</l>
+               <l>In this salubrious Glass of Claret,</l>
+               <l>The best of cordials I'le aver it,</l>
+               <l>I wish Prosperity with all</l>
+               <l>My Heart, to the Church Episcopal.</l>
+               <l>And hope the Crown, the same will nourish.</l>
+               <l>That the true Faith may ever flourish▪</l>
+               <l>Huzza <hi>I</hi> here goes a merry Bumper,</l>
+               <l>Come pledge me, Sir, or you're a Rumper▪</l>
+            </sp>
+            <sp>
+               <speaker>Low Churchman.</speaker>
+               <l>Methinks good Sir you're mighty warm,</l>
+               <l>I'd have you think I wish no harm.</l>
+               <l>To th'Bishops, or the Church, God mend'em'</l>
+               <l>Or any Hotspurs that defend 'em,</l>
+               <l>But I must plainly tell you this, Sir.</l>
+               <l>Ill drink no Wine but what I please, Sir</l>
+               <l>No High. Fly's of you all, Gad take me,</l>
+               <l>If I refuse to drink▪ shall make me.</l>
+               <l>Nay I'll not pledge, for all your grinning,</l>
+               <l>Such Popish Healths as your beginning:</l>
+               <l>I'd have you think I scorn to fear,</l>
+               <l>Any Tantivy▪ Ranter he<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e▪</l>
+               <l>Ay; nod your Head, and knit your Bro<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪</l>
+               <l>We've Liberty of conscience now,</l>
+               <l>Come, Neighbour Cant, <hi>GOD</hi> save the Queen</l>
+               <l>We value no such fiery Men,</l>
+               <l>God grant her Grace as well as Breath,</l>
+               <l>To live and Reign like <hi>Elizabeth.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>High Churchman.</speaker>
+               <l>Blood, Sir; for all you talk so big,</l>
+               <l>I say you're but a canting Whig,</l>
+               <l>A tank dissembling Presbyterian,</l>
+               <l>The Spawn of some old <hi>Oliverian</hi>
+               </l>
+               <l>Whose Heart maliciously is bent,</l>
+               <l>Against both Church and Governments;</l>
+               <l>And tho' you seem to wish the Crown</l>
+               <l>So well, you'd gladly pull it down,</l>
+               <l>
+                  <hi>And drink the Q<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>s Health, yet you'd rather</hi>
+               </l>
+               <l>Betray the Daughter like the Father;</l>
+               <l>For all the Wheedles<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>▪ and God bless ye<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</l>
+               <l>Found in your glavering Adresses;</l>
+               <l>Adorn'd with florid canting stuff,</l>
+               <l>We know your inside well enough.</l>
+               <l>I say, he's Rumpish that abuses</l>
+               <l>The High-Church, or her Health refuses,</l>
+               <l>And that he would be glad to see</l>
+               <l>Once more the scene of Forty-Three;</l>
+               <l>And who approves the Blood then spilt▪</l>
+               <l>Must be a Partner in the Guilt,</l>
+               <l>And make himself a vile Abetter,</l>
+               <l>By now consenting to the matter.</l>
+            </sp>
+            <sp>
+               <speaker>Low Churchman</speaker>
+               <l>I say, sir, you're a meer <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hite-fire,</l>
+               <l>You a good subject, you a Lyar,</l>
+               <l>A flanting▪ tanting Pe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>kenire;</l>
+               <l>A Popish slave, a Jacobite;</l>
+               <l>That would have all the Nation groan,</l>
+               <l>Beneath the Whore of <hi>Bab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lon:</hi>
+               </l>
+               <l>What tho' a King once lost his Head.</l>
+               <l>Why should the Blame on us be said▪</l>
+               <l>Why did not your Church Militant,</l>
+               <l>That o'er your Wine so rave and ran<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Behave themselves like better Soldiers</l>
+               <l>And fight to keep it on his shoulders▪</l>
+               <pb facs="tcp:206503:2"/>
+               <l>Are we ro blame because you lost.</l>
+               <l>What many Thousand Liv<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> had cost;</l>
+               <l>Why did not all your <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cas rally,</l>
+               <l>To stop the Mischiefs that befal ye,</l>
+               <l>But tamely stand, and sighing see</l>
+               <l>Your Martyr's sad Catast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ophe;</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me henceforward cease to brag on</l>
+               <l>Y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur Church wh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> emblem <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ho' a Dragon</l>
+               <l>To show it is her Constitution</l>
+               <l>To uphold Popish p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rsecution:</l>
+               <l>Yet a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e her Sons such bastard <hi>Romans,</hi>
+               </l>
+               <l>They fight u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bast<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi>Doctors Commons.</hi>
+               </l>
+               <l>Wher<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> their C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t-Spiritu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Field.</l>
+               <l>The Pen the Sword, and Gold the Sh eld:</l>
+               <l>But now be prais'd w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> out of danger,</l>
+               <l>And fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r no high flown Bishops Ang<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r.</l>
+               <l>No fiery Churchman s Informa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion,</l>
+               <l>No griping P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>octor or Citation;</l>
+               <l>But can serve GOD, w<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>re o'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r we please</l>
+               <l>In <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pight of en<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mies l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rig<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t us</l>
+               <l>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> your high flying wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ds sh<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n't</l>
+               <l>You<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Chu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h is gag'd and cannot bite us.</l>
+            </sp>
+            <sp>
+               <speaker>High Churchman.</speaker>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell you. Sir, for all your bawling,</l>
+               <l>You r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ip<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>oling.</l>
+               <l>A Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Kn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve a Flash a Bounce;</l>
+               <l>A grey ha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d gr<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> illit rare Du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>Di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not your Trib<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Civil Wars,</l>
+               <l>And set th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nation by the Ears,</l>
+               <l>P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uck down the church by heaven appo n red</l>
+               <l>And <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mple on the Lord's Anointed</l>
+               <l>Murder and plunder all his Friends,</l>
+               <l>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d Tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>son p<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ch to gain their Ends;</l>
+               <l>And when your Swords thro' vile dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sters</l>
+               <l>Had made you <hi>England s</hi> bloody M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sters.</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you than with <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>antick Joy,</l>
+               <l>The Monuments <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'th' dead destroy,</l>
+               <l>A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a heathenish pack of Knaves,</l>
+               <l>D stu b their Ashes in their Graves,</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> sa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k God's Al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s with you<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Forees.</l>
+               <l>Prophane his Churches with your Horses</l>
+               <l>B<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>k s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cred Windows in your Fury.</l>
+               <l>Painted long since to Heavens Glory,</l>
+               <l>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>caus<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> malicious Fools, in spight,</l>
+               <l>C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y d out they gave a Popish Light;</l>
+               <l>And when▪ like wild <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eb<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luous Devils.</l>
+               <l>You'd done all these inf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Evils</l>
+               <l>And had the Sov'r<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>gn Power subdu'd,</l>
+               <l>By drinking up th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Nation's blood'</l>
+               <l>Could you tell <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w to Rule the Roast,</l>
+               <l>Or use that Pow r you had ingross'd;</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> first 'twas seat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in the Rump.</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hence did in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o th' A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>my jump;</l>
+               <l>Then was it plac'<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in Regu ators.</l>
+               <l>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y had the Ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssing of Matters;</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>om thence against th' Parliament<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>To Cromwel next, by their consent:</l>
+               <l>T<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> back and forwards was it handed,</l>
+               <l>And <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> about the Nation banded,</l>
+               <l>Not knowing how to long maintain</l>
+               <l>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Pow'r they did so basely gain</l>
+               <l>But was at last forc'd with dishonor.</l>
+               <l>To giv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it back to it's right Owner,</l>
+               <l>So busi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nkeys that have seen;</l>
+               <l>Their Master handle what is keen,</l>
+               <l>Will in his absence, take in hand,</l>
+               <l>What silly B ut<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s don't understand-</l>
+               <l>But whan they've hurt some tender part,</l>
+               <l>And see the Blood, and feel the smart;</l>
+               <l>They gladly lay down what they found,</l>
+               <l>And lick to heal the painful wound.</l>
+            </sp>
+            <sp>
+               <speaker>Low Church Man.</speaker>
+               <lg>
+                  <l>I say, sir, you're a Popish Biggot,</l>
+                  <l>A Tyrant's Slave, a Loyal Maggot,</l>
+                  <l>A speaking servile <hi>Tom a doodle,</hi>
+                  </l>
+                  <l>That has no Brains within thy N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>dle;</l>
+                  <l>A zealous, poor, Crown serving To<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</l>
+                  <l>F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t only to give K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngs thy money;</l>
+                  <l>A Cow'rdly non-resisting B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bble.</l>
+                  <l>Aw'd by the se<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> of Death or Trouble▪</l>
+                  <l>A Wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m for M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sty to tread on,</l>
+                  <l>An As<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for Ba<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>thens to be leid on;</l>
+                  <l>A Gover<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s most us<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ful Tool.</l>
+                  <l>A Sacred Monarch's humble Fool,</l>
+                  <l>A Bishop<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Jack<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndy,</l>
+                  <l>A Papist, sir, I understand ye;</l>
+                  <l>A Foot-ball st<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffe with Loyal Zeal.</l>
+                  <l>For Priests to kick 'twixt Heaven &amp; H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll</l>
+                  <l>I'l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> war'nt you're such a Loyal Slave,</l>
+                  <l>You'd serve the Crown w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th all you have</l>
+                  <l>Lay down your Life or y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur Esta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</l>
+                  <l>To mak<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> your Prince p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>usely g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>;</l>
+                  <l>Or sight like Butcher's favourite Brindle;</l>
+                  <l>R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ther than Pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lacy should dwindle:</l>
+                  <l>N<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> d<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> a Martyr for the Church.</l>
+                  <l>B fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e you'd leave her in the lu<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h▪</l>
+                  <l>E'en hug thy high flown Loy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l Fury,</l>
+                  <l>I'm no such Block hand I'l assure ye;</l>
+                  <l>Kings by the People first were made,</l>
+                  <l>And should no longer be obey'd</l>
+                  <l>Than whilst they mind our preservation;</l>
+                  <l>And act for th' wel-fare of the Nation.</l>
+                  <l>Truely maintaining their Compaction,</l>
+                  <l>Without encroachment or Exaction;</l>
+                  <l>But if at any time we find 'em</l>
+                  <l>Grasp at more pow'r than we design'd 'em</l>
+                  <l>O that they've broke thro', or forsaken</l>
+                  <l>The solemn Vows &amp; Oaths they've taken</l>
+                  <l>Or if they prove such Storks <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t Logs,</l>
+                  <l>Complain'd of by old Aesop's Frogs;</l>
+                  <l>The suffering People may dismount</l>
+                  <l>Such Kings, and call them to accoun<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</l>
+                  <l>GOD only made them Men, 'tis we</l>
+                  <l>That yield them their Authorie,</l>
+                  <l>It's Conquest gives a right to Rule,</l>
+                  <l>The Throne is such a precatious Stool.</l>
+                  <l>That whosoever fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e thereon,</l>
+                  <l>Must alwayes have his Dagger drawn;</l>
+                  <l>For if the people can by force.</l>
+                  <l>Dethrone the Victor or do worse;</l>
+                  <l>Their Native freedom to recover,</l>
+                  <l>Their Right's the same with his all over.</l>
+                  <pb facs="tcp:206503:2"/>
+                  <l>'Tis not to say he made us swear,</l>
+                  <l>That we would true Allegiance bear;</l>
+                  <l>And that we are his Slaves in troth;</l>
+                  <l>Because we've taken such an Oath;</l>
+                  <l>N<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, since we cann't dispute his title;</l>
+                  <l>We're forc'd <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o flatter him a little;</l>
+                  <l>And only do what he desires;</l>
+                  <l>To gain those points our cause requires</l>
+                  <l>Not that an Oath can binding be</l>
+                  <l>Extorted in necessity:</l>
+                  <l>For bonds in prison are not good;</l>
+                  <l>There is no reason that they should:</l>
+                  <l>What tho' a thief upon the Road;</l>
+                  <l>Robs me, and makes me swear by G— d.</l>
+                  <l>I'd ne<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er discover him should <hi>I</hi> find him</l>
+                  <l>Do you believe this Oath is binding?</l>
+                  <l>No, by my troth for all I'd sworn;</l>
+                  <l>I'd make him take a Tyburn turn:</l>
+                  <l>And after all your mighty Rattles,</l>
+                  <l>Of Norman Victories and Battles;</l>
+                  <l>A Conqueror 'twixt me and you;</l>
+                  <l>Is but the greater thief o'th' two:</l>
+                  <l>Nor can the Oaths he puts upon us</l>
+                  <l>When by the Sword he'as over run us:</l>
+                  <l>Bind us t'acknowledge his protection:</l>
+                  <l>Longer than <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> can force Subjection?</l>
+                  <l>But when we find his strength doth fail,</l>
+                  <l>And we can ove<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his pow'r prevail;</l>
+                  <l>We have the s<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l same title then</l>
+                  <l>To Govern, a<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad to Reign.</l>
+                  <l>And if we pull the Tyrant down,</l>
+                  <l>And from h<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> T<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mple <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the Crown)</l>
+                  <l>We ta<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e no mor<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> than what's our own.)</l>
+                  <l>Y<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t you poo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Loyal Fools, will c<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</l>
+                  <l>W <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e co<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> wrong to Maj<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sty.</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> as pow r to quel;</l>
+                  <l>O<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> h<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>l say that W<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bel;</l>
+                  <l>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 'tis we that must be halter'd,</l>
+                  <l>B <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or attempts we falter'd▪</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> S<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ess shoul<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> crown our matters.</l>
+                  <l>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> K<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>g and Friends are then the Traitors</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Law we've seen it often try'd;</l>
+                  <l>
+                     <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> on the strongest side.</l>
+               </lg>
+               <lg>
+                  <l>As <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> your proud and lazy Prelates,</l>
+                  <l>S<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> touch <gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>or'd by Popish Zealots;</l>
+                  <l>I tel<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> y<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u plainly I abhor 'em.</l>
+                  <l>And think th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re's no occasion for 'em.</l>
+                  <l>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Sh<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>pherds Cro<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k their Lordships wear</l>
+                  <l>To sig<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>y their P<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>storal Car<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <l>Is of no other Service grown</l>
+                  <l>Unless to ho<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> the Chu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch to th' Crown.</l>
+                  <l>Nor do<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s th<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> fitting in the H—</l>
+                  <l>To th' Publick signify a Lou<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e;</l>
+                  <l>O<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly in matters of Debate.</l>
+                  <l>That happ n to e<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>flame the State,</l>
+                  <l>I <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> w<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ing to forget</l>
+                  <l>The m ghty Goo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> they did of late;</l>
+                  <l>But f<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ar they'l p<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ove such pious Men,</l>
+                  <l>As to undo it all again.</l>
+                  <l>To tell you truely I suspect 'em;</l>
+                  <l>And cannot cordially affect 'em;</l>
+                  <l>But dare to own before my Betters;</l>
+                  <l>I love no Car<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>nals▪ Caps or Mitres.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>High Church Man.</speaker>
+               <lg>
+                  <l>
+                     <hi>Now rage thy envious Heart has fir'd,</hi>
+                  </l>
+                  <l>
+                     <hi>I't war'nt thou thi<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k'st thy self inspir'd;</hi>
+                  </l>
+                  <l>
+                     <hi>And that thy base rebellious Babble,</hi>
+                  </l>
+                  <l>
+                     <hi>In spight thou'st utter'd at the table,</hi>
+                  </l>
+                  <l>
+                     <hi>Is fill d with so much charming sence,</hi>
+                  </l>
+                  <l>
+                     <hi>And such convincing arguments;</hi>
+                  </l>
+                  <l>
+                     <hi>That nothing can withstand the force</hi>
+                  </l>
+                  <l>
+                     <hi>Of thy Fanatical discourse▪</hi>
+                  </l>
+                  <l>
+                     <hi>But I must tell thee, thou'rt a Dolt;</hi>
+                  </l>
+                  <l>
+                     <hi>A fool for shooting such a bolt:</hi>
+                  </l>
+                  <l>
+                     <hi>You fire at random in the dark,</hi>
+                  </l>
+                  <l>
+                     <hi>And fall a Mile beside the Mark,</hi>
+                  </l>
+                  <l>
+                     <hi>Show by your Talk that you're a scurvy</hi>
+                  </l>
+                  <l>
+                     <hi>Knave, that would turn us topsy turvy,</hi>
+                  </l>
+                  <l>
+                     <hi>A restless Wretch, that wants to tower</hi>
+                  </l>
+                  <l>
+                     <hi>Above thy Merit or thy Power▪</hi>
+                  </l>
+                  <l>
+                     <hi>Possess'd with that strange stupifaction,</hi>
+                  </l>
+                  <l>
+                     <hi>As't wish thy native Land s distraction,</hi>
+                  </l>
+                  <l>
+                     <hi>T' enrich thy self by others ruin.</hi>
+                  </l>
+                  <l>
+                     <hi>And thrive by honest Mens undoing.</hi>
+                  </l>
+                  <l>
+                     <hi>I wonder who first taught thee Treason.</hi>
+                  </l>
+                  <l>
+                     <hi>And how thou suck'st in so much Poyson</hi>
+                  </l>
+                  <l>
+                     <hi>To think the People may dethrone</hi>
+                  </l>
+                  <l>
+                     <hi>The King, and make his Pow r their own;</hi>
+                  </l>
+                  <l>
+                     <hi>So any Rebel, you will own,</hi>
+                  </l>
+                  <l>
+                     <hi>Has a just Title to the Crown;</hi>
+                  </l>
+                  <l>
+                     <hi>If once by force he can but gain it.</hi>
+                  </l>
+                  <l>
+                     <hi>And has but power to maintain it.</hi>
+                  </l>
+                  <l>
+                     <hi>Rare Doctrine! sure from Hell first brought▪</hi>
+                  </l>
+                  <l>
+                     <hi>By some Incarnate Devil taught;</hi>
+                  </l>
+                  <l>
+                     <hi>Some Guile of Lucifer's designed</hi>
+                  </l>
+                  <l>
+                     <hi>To spoil the Peace of Human-kind</hi>
+                  </l>
+                  <l>
+                     <hi>To foment Feuds to Civil Wars.</hi>
+                  </l>
+                  <l>
+                     <hi>And set whole Kingdoms by the Ears:</hi>
+                  </l>
+                  <l>
+                     <hi>For where such Nations do encrease,</hi>
+                  </l>
+                  <l>
+                     <hi>There can be no such thing as Peace:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Kings were at first by Heav'n appointed,</hi>
+                  </l>
+                  <l>
+                     <hi>And by GOD</hi>'S <hi>holy Priest anointed.</hi>
+                  </l>
+                  <l>
+                     <hi>Not placed by th' People o'er the Land,</hi>
+                  </l>
+                  <l>
+                     <hi>But govern'd by Divine Command:</hi>
+                  </l>
+                  <l>
+                     <hi>The Lord himself by Revelation,</hi>
+                  </l>
+                  <l>
+                     <hi>Gave to the Priest the noimination,</hi>
+                  </l>
+                  <l>
+                     <hi>Without the Subjects approbation,</hi>
+                  </l>
+                  <l>
+                     <hi>But when the People he abus'd</hi>
+                  </l>
+                  <l>
+                     <hi>And the g<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eat power he had misus'd</hi>
+                  </l>
+                  <l>
+                     <hi>So that just Heaven disapproved him.</hi>
+                  </l>
+                  <l>
+                     <hi>GOD Himself judg'd him. and remov'd him</hi>
+                  </l>
+                  <l>
+                     <hi>By g<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ving in a Dream or Vision,</hi>
+                  </l>
+                  <l>
+                     <hi>To his High Priest a new Commission</hi>
+                  </l>
+                  <l>
+                     <hi>To openly declare his VVord</hi>
+                  </l>
+                  <l>
+                     <hi>Revealed unto him by the Lord.</hi>
+                  </l>
+                  <l>
+                     <hi>That Heaven had denounc'd in Anger;</hi>
+                  </l>
+                  <l>
+                     <hi>So ill a King should reign no longer,</hi>
+                  </l>
+                  <pb facs="tcp:206503:3"/>
+                  <l>
+                     <hi>And that the Lord had new appointed</hi>
+                  </l>
+                  <l>
+                     <hi>Another Prince to be Anointed.</hi>
+                  </l>
+                  <l>
+                     <hi>On the Kings Misrule or Defection,</hi>
+                  </l>
+                  <l>
+                     <hi>GOD gave the People no Election,</hi>
+                  </l>
+                  <l>
+                     <hi>They were oblig'd to be content,)</hi>
+                  </l>
+                  <l>
+                     <hi>With such a King as Heaven sent,</hi>
+                  </l>
+                  <l>
+                     <hi>And to approve his Government.)</hi>
+                  </l>
+                  <l>
+                     <hi>For if the People by their Voice</hi>
+                  </l>
+                  <l>
+                     <hi>Made Kings and they should Rule hy choice,</hi>
+                  </l>
+                  <l>
+                     <hi>They'd Vote their Monarchs up and down,</hi>
+                  </l>
+                  <l>
+                     <hi>And so precarious make the Crown,</hi>
+                  </l>
+                  <l>
+                     <hi>That e're they'd long one King obeyed</hi>
+                  </l>
+                  <l>
+                     <hi>They'd ch<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>se another o'er his Head,</hi>
+                  </l>
+                  <l>
+                     <hi>So that the Throne would be a Chair,</hi>
+                  </l>
+                  <l>
+                     <hi>Much fitter for my good Lord-May'r.</hi>
+                  </l>
+                  <l>
+                     <hi>Besides allow that Monarchie</hi>
+                  </l>
+                  <l>
+                     <hi>Should (as you wish) elective be,</hi>
+                  </l>
+                  <l>
+                     <hi>In our divided wrangling Nation.</hi>
+                  </l>
+                  <l>
+                     <hi>So full of Strife and Emulation,</hi>
+                  </l>
+                  <l>
+                     <hi>How would two Parties, that oppose</hi>
+                  </l>
+                  <l>
+                     <hi>Each other as inveterate Foes,</hi>
+                  </l>
+                  <l>
+                     <hi>That disunite in every thing,</hi>
+                  </l>
+                  <l>
+                     <hi>Agree in chusing of a King?</hi>
+                  </l>
+                  <l>
+                     <hi>Both would their Fav'rites countenance,</hi>
+                  </l>
+                  <l>
+                     <hi>And each side would their own advance;</hi>
+                  </l>
+                  <l>
+                     <hi>They'd ne er concurr in any One,</hi>
+                  </l>
+                  <l>
+                     <hi>And if we've Two as good have none:</hi>
+                  </l>
+                  <l>
+                     <hi>Then if two Parties by their Voices,</hi>
+                  </l>
+                  <l>
+                     <hi>To please themselves make diff rent Choices</hi>
+                  </l>
+                  <l>
+                     <hi>How must they then dispute their Right,</hi>
+                  </l>
+                  <l>
+                     <hi>Unless it be by open fight?</hi>
+                  </l>
+                  <l>
+                     <hi>The Sword must be the Arbitrater,</hi>
+                  </l>
+                  <l>
+                     <hi>And Conquest must decide the Matter;</hi>
+                  </l>
+                  <l>
+                     <hi>So terminate in spight of Votes.</hi>
+                  </l>
+                  <l>
+                     <hi>In cutting one anothers Throats.</hi>
+                  </l>
+                  <l>
+                     <hi>Thus ev'ry popular Election</hi>
+                  </l>
+                  <l>
+                     <hi>Would end in Misery and Distraction<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>The City scarce can chuse her May'rs,</hi>
+                  </l>
+                  <l>
+                     <hi>But fall together by the Ears;</hi>
+                  </l>
+                  <l>
+                     <hi>Nor Country Boors and Clowns content them▪</hi>
+                  </l>
+                  <l>
+                     <hi>Selves to chuse those that represent them:</hi>
+                  </l>
+                  <l>
+                     <hi>Least every such Election cloles</hi>
+                  </l>
+                  <l>
+                     <hi>With broken Heads, and bloody Noses,</hi>
+                  </l>
+                  <l>
+                     <hi>What evils then must needs befal us,</hi>
+                  </l>
+                  <l>
+                     <hi>Were we to chuse the Kings that Rule us!</hi>
+                  </l>
+                  <l>
+                     <hi>Should</hi> England <hi>e'er prove so defective.</hi>
+                  </l>
+                  <l>
+                     <hi>As once to make her Crown Elective,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoever we should chuse as King</hi>
+                  </l>
+                  <l>
+                     <hi>Would find he stood so tottering</hi>
+                  </l>
+                  <l>
+                     <hi>That he must like a Tyrant Rule.</hi>
+                  </l>
+                  <l>
+                     <hi>And make us Slaves, or be our Fool!</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Low Churchman.</speaker>
+               <lg>
+                  <l>
+                     <hi>Wounds, hold your Popish tittle-tattle,</hi>
+                  </l>
+                  <l>
+                     <hi>'T would make one swear to hear you prattle;</hi>
+                  </l>
+                  <l>
+                     <hi>Nay put a Saint into a Passion,</hi>
+                  </l>
+                  <l>
+                     <hi>To listen to your vile Oration!</hi>
+                  </l>
+                  <l>
+                     <hi>Why what a Pox (forgive good L—d)</hi>
+                  </l>
+                  <l>
+                     <hi>My speaking such a wicked Word:</hi>
+                  </l>
+                  <l>
+                     <hi>But what good Man on Earth can be</hi>
+                  </l>
+                  <l>
+                     <hi>From such vain filthy Language free,</hi>
+                  </l>
+                  <l>
+                     <hi>In such provoking Company.</hi>
+                  </l>
+                  <l>
+                     <hi>I say Sir you're a Perkenite,</hi>
+                  </l>
+                  <l>
+                     <hi>And talk like any Bedlamite:</hi>
+                  </l>
+                  <l>
+                     <hi>You're Mad, and know not what you say,</hi>
+                  </l>
+                  <l>
+                     <hi>But rave like one that would betray</hi>
+                  </l>
+                  <l>
+                     <hi>Our</hi> English <hi>Liberties and Rights.</hi>
+                  </l>
+                  <l>
+                     <hi>Into the hands of</hi> Jacobites.</l>
+                  <l>
+                     <hi>And make us all poor slavish Creatures;</hi>
+                  </l>
+                  <l>
+                     <hi>To heath'nish Crowns and Popish Mitres▪</hi>
+                  </l>
+                  <l>
+                     <hi>But e're such Times shall come about.</hi>
+                  </l>
+                  <l>
+                     <hi>We'll make the Devil of a rout;</hi>
+                  </l>
+                  <l>
+                     <hi>Alarm your Ears with such strange Thunder▪</hi>
+                  </l>
+                  <l>
+                     <hi>That should turn all your hopes to wonder,</hi>
+                  </l>
+                  <l>
+                     <hi>For all I am old, I thank the Lord,</hi>
+                  </l>
+                  <l>
+                     <hi>I'm able still to wield a Sword,</hi>
+                  </l>
+                  <l>
+                     <hi>Or cock a Musquet in the Field.</hi>
+                  </l>
+                  <l>
+                     <hi>And would do both, before I'd yield</hi>
+                  </l>
+                  <l>
+                     <hi>The Pow'r of</hi> England <hi>should be given</hi>
+                  </l>
+                  <l>
+                     <hi>To any Papist under Heaven.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Go you're a</hi> Romish Tory, <hi>Sir.</hi>
+                  </l>
+                  <l>
+                     <hi>A meer Cathedral Worshipper.</hi>
+                  </l>
+                  <l>
+                     <hi>That goes to Church to hear a Jargon</hi>
+                  </l>
+                  <l>
+                     <hi>Of Popish Masses with the Organ,</hi>
+                  </l>
+                  <l>
+                     <hi>As if you thought (by your advancing</hi>
+                  </l>
+                  <l>
+                     <hi>Fine Tunes) your Saints above, lov'd Dancing</hi>
+                  </l>
+                  <l>
+                     <hi>I say such Musical High Flyers,</hi>
+                  </l>
+                  <l>
+                     <hi>Are worse than Jesuits or Fryars.</hi>
+                  </l>
+                  <l>
+                     <hi>And are nought else in good Mens Eyes,</hi>
+                  </l>
+                  <l>
+                     <hi>But down right Papists in disguise.</hi>
+                  </l>
+                  <l>
+                     <hi>Your idle Talk provockes my Anger,</hi>
+                  </l>
+                  <l>
+                     <hi>I'll keep you Companie no longer,</hi>
+                  </l>
+                  <l>
+                     <hi>You may perhaps have some design.</hi>
+                  </l>
+                  <l>
+                     <hi>There's Nine pence for my pint of Wi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e.</hi>
+                  </l>
+                  <l>
+                     <hi>And so good night t'ye, Master High Church,</hi>
+                  </l>
+                  <l>
+                     <hi>I'm sure I ne're shal be of Thy Church.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>High Church-Man.</speaker>
+               <stage>[To the rest of the Companie]</stage>
+               <l>
+                  <hi>Good Night! Did ever Mortal Ear,</hi>
+               </l>
+               <l>
+                  <hi>Such strange Rebellious Notions hear-</hi>
+               </l>
+               <l>
+                  <hi>Imbib'd from stupid envious Teachers,</hi>
+               </l>
+               <l>
+                  <hi>Whose Malice onlie made them Preachers▪</hi>
+               </l>
+               <l>
+                  <hi>England, unhappie would'st thou be</hi>
+               </l>
+               <l>
+                  <hi>Beneath such Mens Authoritie!</hi>
+               </l>
+               <l>
+                  <hi>Be wise and shun the sad Disasters,</hi>
+               </l>
+               <l>
+                  <hi>Of having such Fanatick Masters.</hi>
+               </l>
+               <l>
+                  <hi>Who abuse Justice, scoff at Reason▪</hi>
+               </l>
+               <l>
+                  <hi>Hate Loyaltie, and nourish Treason.</hi>
+               </l>
+               <l>
+                  <hi>And brand all th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>se that thwart their kna<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>rie.</hi>
+               </l>
+               <l>
+                  <hi>With love of Poperie &amp; Slaverie.</hi>
+               </l>
+               <l>
+                  <hi>May Heav'n protect the Church and State</hi>
+               </l>
+               <l>
+                  <hi>From what such Saints would fain be at.</hi>
+               </l>
+               <l>
+                  <hi>That the Queen long may Rule the Natio<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>And her Arms gain such Reputation,</hi>
+               </l>
+               <l>
+                  <hi>As to establish Europe's Peace;</hi>
+               </l>
+               <l>
+                  <hi>And make all Forreign discords cease▪</hi>
+               </l>
+               <l>
+                  <hi>Also with one pacifick Smile.</hi>
+               </l>
+               <l>
+                  <hi>Our Home Divisions Reconcile,</hi>
+               </l>
+               <l>
+                  <hi>And ever bless our fruitful Isle.</hi>
+               </l>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:206503:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
